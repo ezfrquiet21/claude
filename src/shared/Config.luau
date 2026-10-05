@@ -1,0 +1,15 @@
+return {
+	ArenaSize = 140,
+	RoundLength = 90,
+	IntermissionLength = 10,
+	MaxCoins = 40,
+	CoinSpawnInterval = 0.75,
+	GoldChance = 0.1,
+	CoinValue = 1,
+	GoldValue = 5,
+	SpeedBoostChance = 0.05,
+	SpeedBoostWalkSpeed = 32,
+	SpeedBoostDuration = 6,
+	DefaultWalkSpeed = 16,
+	CoinTag = "Coin",
+}
